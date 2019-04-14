@@ -1,0 +1,40 @@
+{
+  "name": "Tergaul",
+  "short_name": "Tergaul",
+  "start_url": "https://www.tergaul.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Media informasi tentang internet, kamus bahasa gaul, komputer, android, bisnis, peluang usaha, ecommerce, market place dan artikel menarik lainnya",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-xJzLc0hXO_U/XLMdeitkW9I/AAAAAAAALzI/He17W0xw6ZkzRoUnvBfoxJKksfWWd9KNACLcBGAs/s48/tergaul-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-3fvgWsSK5Io/XLMdt0mG1MI/AAAAAAAALzM/zJl4G6NqbZ8PLeiPEfhJ92A6su1oT3bmgCLcBGAs/s72/tergaul-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-Z2N2TeCLM_8/XLMd75dmxNI/AAAAAAAALzU/1cRfTytySMs4bZlyPaMrQSJRlpfDzVaggCLcBGAs/s96/tergaul-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-XextzS6sVgk/XLMeGivnOaI/AAAAAAAALzc/uXIyIwkosbMjCoJaGHkr7m-pAIPnvwuuQCLcBGAs/s144/tergaul-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-Y7Fw_PPVcmA/XLMeQpNL-DI/AAAAAAAALzk/niHkkfnV4-4xCUCkdn15dFy7E92r0h0rgCLcBGAs/s168/tergaul-icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V_b6pGHxleo/XLMedOmSO-I/AAAAAAAALzs/996AY80_SfUk9ViytWB2c-E4jof4QvpowCLcBGAs/s192/tergaul-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-NsNIFk5ullY/XLMeqBhW_3I/AAAAAAAALz0/5ayE5z429vE6Fg72j_l561E_U6M2EWM2ACLcBGAs/s512/tergaul-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
+
+
