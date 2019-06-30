@@ -1,40 +1,38 @@
 {
   "name": "Tergaul",
   "short_name": "Tergaul",
-  "start_url": "https://www.tergaul.com/",
+  "start_url": "https://tergaul.com",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#C51162",
-  "description": "Media informasi tentang internet, kamus bahasa gaul, komputer, android, bisnis, peluang usaha, ecommerce, market place dan artikel menarik lainnya",
+  "theme_color": "#2B0C93",
+  "description": "Media informasi, tutorial, bisnis dan tulisan menarik lainnya",
   "icons": [{
-    "src": "https://2.bp.blogspot.com/-xJzLc0hXO_U/XLMdeitkW9I/AAAAAAAALzI/He17W0xw6ZkzRoUnvBfoxJKksfWWd9KNACLcBGAs/s48/tergaul-icon-48x48.png",
+    "src": "https://1.bp.blogspot.com/-j9UxzrEQxhc/XRienN_ltJI/AAAAAAAAMEw/79TITCfqTlsnFE0VLOht5tAEIRygEi7MACLcBGAs/s48/t-48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-3fvgWsSK5Io/XLMdt0mG1MI/AAAAAAAALzM/zJl4G6NqbZ8PLeiPEfhJ92A6su1oT3bmgCLcBGAs/s72/tergaul-icon-72x72.png",
+    "src": "https://1.bp.blogspot.com/-vuB4SrPTs-A/XRienAR87RI/AAAAAAAAMEs/1NcIRXGZxXs9ALdBoAaUWVzIOjwdClf4wCLcBGAs/s72/t-72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-Z2N2TeCLM_8/XLMd75dmxNI/AAAAAAAALzU/1cRfTytySMs4bZlyPaMrQSJRlpfDzVaggCLcBGAs/s96/tergaul-icon-96x96.png",
+    "src": "https://1.bp.blogspot.com/-X-7rxWmztOQ/XRienUnoAeI/AAAAAAAAME0/O7dbmnww9YgcqcZPNO_EU7k03Bdv1PDJACLcBGAs/s96/t-96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-XextzS6sVgk/XLMeGivnOaI/AAAAAAAALzc/uXIyIwkosbMjCoJaGHkr7m-pAIPnvwuuQCLcBGAs/s144/tergaul-icon-144x144.png",
+    "src": "https://1.bp.blogspot.com/-Z9-TAxL5KkA/XRietaZ4x4I/AAAAAAAAMFA/QQdqn1RAVJE9FqcrklbTaquX2GJ4RjZDgCLcBGAs/s144/t-144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-Y7Fw_PPVcmA/XLMeQpNL-DI/AAAAAAAALzk/niHkkfnV4-4xCUCkdn15dFy7E92r0h0rgCLcBGAs/s168/tergaul-icon-168x168.png",
+    "src": "https://1.bp.blogspot.com/-2g74ln0dPrQ/XRietQNRhRI/AAAAAAAAME8/cZ3Yj2bsKt8gckOfCZVtdXGMKnYc4u35QCLcBGAs/s168/t-168.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-V_b6pGHxleo/XLMedOmSO-I/AAAAAAAALzs/996AY80_SfUk9ViytWB2c-E4jof4QvpowCLcBGAs/s192/tergaul-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-WlJBHoiFiwo/XRietdFJvJI/AAAAAAAAME4/tCZXW5dfOGcBEKL67JqBRtxQvZyQSSNRACLcBGAs/s192/t-192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-NsNIFk5ullY/XLMeqBhW_3I/AAAAAAAALz0/5ayE5z429vE6Fg72j_l561E_U6M2EWM2ACLcBGAs/s512/tergaul-icon-512x512.png",
+    "src": "https://1.bp.blogspot.com/-l--t-NMLDtY/XRieuIDcQ9I/AAAAAAAAMFE/231kDyAQ1E0bg_9J7ORvteE21tkQFKGdgCLcBGAs/s512/t-512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
 }
-
-
